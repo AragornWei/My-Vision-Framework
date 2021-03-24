@@ -1,0 +1,272 @@
+K:\项目\Halcon\VisionMix\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojResolveAssemblyReference.cache
+F:\Learning Materials\Vision程序\VisionMix-X64\bin\Debug\Yoga.ImageControl.dll
+F:\Learning Materials\Vision程序\VisionMix-X64\bin\Debug\Yoga.ImageControl.pdb
+F:\Learning Materials\Vision程序\VisionMix-X64\bin\Debug\byn\Yoga.ImageControl.resources.dll
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+F:\Learning Materials\Vision程序\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\log4net.config
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\Yoga.ImageControl.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\Yoga.ImageControl.pdb
+F:\Learning Materials\HRGVision\VisionMix-X64\bin\Debug\byn\Yoga.ImageControl.resources.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+F:\Learning Materials\HRGVision\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb
+D:\VisionMix-X64\bin\Debug\log4net.config
+D:\VisionMix-X64\bin\Debug\Yoga.ImageControl.dll
+D:\VisionMix-X64\bin\Debug\Yoga.ImageControl.pdb
+D:\VisionMix-X64\bin\Debug\byn\Yoga.ImageControl.resources.dll
+D:\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+D:\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+D:\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+D:\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+D:\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+D:\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+D:\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+D:\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+D:\VisionMix-X64\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+D:\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+D:\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+D:\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\Yoga.ImageControl.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\Yoga.ImageControl.pdb
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\bin\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb
+C:\Users\PC\Desktop\喜利得视觉\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\PC\Desktop\喜利得视觉\VisionMix-X64\bin\Debug\Yoga.ImageControl.dll
+C:\Users\PC\Desktop\喜利得视觉\VisionMix-X64\bin\Debug\Yoga.ImageControl.pdb
+C:\Users\PC\Desktop\喜利得视觉\VisionMix-X64\bin\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\PC\Desktop\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+C:\Users\PC\Desktop\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+C:\Users\PC\Desktop\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+C:\Users\PC\Desktop\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+C:\Users\PC\Desktop\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+C:\Users\PC\Desktop\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\PC\Desktop\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+C:\Users\PC\Desktop\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+C:\Users\PC\Desktop\喜利得视觉\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.01\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.01\VisionMix-X64\bin\Debug\Yoga.ImageControl.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.01\VisionMix-X64\bin\Debug\Yoga.ImageControl.pdb
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.01\VisionMix-X64\bin\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.01\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.01\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.01\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.01\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.01\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.01\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.01\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.01\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.01\VisionMix-X64\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.01\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.01\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.01\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.02\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.02\VisionMix-X64\bin\Debug\Yoga.ImageControl.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.02\VisionMix-X64\bin\Debug\Yoga.ImageControl.pdb
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.02\VisionMix-X64\bin\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.02\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.02\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.02\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.02\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.02\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.02\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.02\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.02\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.02\VisionMix-X64\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.02\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.02\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.02\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.03\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.03\VisionMix-X64\bin\Debug\Yoga.ImageControl.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.03\VisionMix-X64\bin\Debug\Yoga.ImageControl.pdb
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.03\VisionMix-X64\bin\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.03\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.03\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.03\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.03\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.03\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.03\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.03\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.03\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.03\VisionMix-X64\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.03\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.03\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.03\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\bin\Debug\Yoga.ImageControl.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\bin\Debug\Yoga.ImageControl.pdb
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\bin\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\bin\Debug\Yoga.ImageControl.dll
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\bin\Debug\Yoga.ImageControl.pdb
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\bin\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.04\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.05\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.05\VisionMix-X64\bin\Debug\Yoga.ImageControl.dll
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.05\VisionMix-X64\bin\Debug\Yoga.ImageControl.pdb
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.05\VisionMix-X64\bin\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.05\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.05\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.05\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.05\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.05\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.05\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.05\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.05\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.05\VisionMix-X64\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.05\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.05\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.05\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.06\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.06\VisionMix-X64\bin\Debug\Yoga.ImageControl.dll
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.06\VisionMix-X64\bin\Debug\Yoga.ImageControl.pdb
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.06\VisionMix-X64\bin\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.06\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.06\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.06\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.06\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.06\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.06\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.06\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.06\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.06\VisionMix-X64\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.06\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.06\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.06\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\bin\Debug\Yoga.ImageControl.dll
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\bin\Debug\Yoga.ImageControl.pdb
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\bin\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+C:\Users\92935\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\bin\Debug\Yoga.ImageControl.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\bin\Debug\Yoga.ImageControl.pdb
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\bin\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.07\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\bin\Debug\Yoga.ImageControl.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\bin\Debug\Yoga.ImageControl.pdb
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\bin\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉_V0.0000.00.08\VisionMix-X64\bin\Debug\log4net.config
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉_V0.0000.00.08\VisionMix-X64\bin\Debug\Yoga.ImageControl.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉_V0.0000.00.08\VisionMix-X64\bin\Debug\Yoga.ImageControl.pdb
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉_V0.0000.00.08\VisionMix-X64\bin\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+C:\Users\92935\Desktop\喜利得螺杆分拣\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb
+F:\视觉程序架构模板\VisionMix\bin\Debug\log4net.config
+F:\视觉程序架构模板\VisionMix\bin\Debug\Yoga.ImageControl.dll
+F:\视觉程序架构模板\VisionMix\bin\Debug\Yoga.ImageControl.pdb
+F:\视觉程序架构模板\VisionMix\bin\Debug\byn\Yoga.ImageControl.resources.dll
+F:\视觉程序架构模板\VisionMix\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csprojAssemblyReference.cache
+F:\视觉程序架构模板\VisionMix\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.FunctionPlotUnit.resources
+F:\视觉程序架构模板\VisionMix\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.resources
+F:\视觉程序架构模板\VisionMix\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.PictureUnit.resources
+F:\视觉程序架构模板\VisionMix\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.ROIActUnit.resources
+F:\视觉程序架构模板\VisionMix\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.HWndUnit.byn.resources
+F:\视觉程序架构模板\VisionMix\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.GenerateResource.cache
+F:\视觉程序架构模板\VisionMix\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CoreCompileInputs.cache
+F:\视觉程序架构模板\VisionMix\Yoga.ImageControl\obj\Debug\byn\Yoga.ImageControl.resources.dll
+F:\视觉程序架构模板\VisionMix\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.csproj.CopyComplete
+F:\视觉程序架构模板\VisionMix\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.dll
+F:\视觉程序架构模板\VisionMix\Yoga.ImageControl\obj\Debug\Yoga.ImageControl.pdb

@@ -1,0 +1,125 @@
+-------------------历史记录------------------------
+ 记录时间：2020-12-28 08:43:05,722 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2020-12-28 10:23:37,511 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2020-12-28 10:24:53,209 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2020-12-28 10:53:18,493 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2020-12-28 10:53:53,892 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2020-12-28 10:55:08,894 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2020-12-28 10:55:59,880 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2020-12-28 10:57:05,309 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2020-12-28 10:58:45,597 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2020-12-28 11:00:11,596 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2020-12-28 11:00:31,081 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2020-12-28 11:09:11,129 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2020-12-28 11:10:51,577 
+ 线程ID:[7] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_CreateImageUnit:  
+ HalconDotNet.HOperatorException: HALCON error #1301: Wrong value of control parameter 1 in operator write_image
+   在 HalconDotNet.HOperatorException.throwOperator(Int32 err, Int32 procIndex)
+   在 HalconDotNet.HalconAPI.PostCall(IntPtr proc, Int32 procResult)
+   在 HalconDotNet.HImage.WriteImage(String format, Int32 fillColor, String fileName)
+   在 Yoga.Tools.CreateImage.CreateImageUnit.<>c__DisplayClass10_0.<SaveImage>b__0() 位置 C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.Tools\CreateImage\CreateImageUnit.cs:行号 181
+-------------------历史记录------------------------
+ 记录时间：2020-12-28 11:14:38,383 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2020-12-28 11:18:12,822 
+ 线程ID:[13] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：Error_CreateImageUnit:  
+ HalconDotNet.HOperatorException: HALCON error #1301: Wrong value of control parameter 1 in operator write_image
+   在 HalconDotNet.HOperatorException.throwOperator(Int32 err, Int32 procIndex)
+   在 HalconDotNet.HalconAPI.PostCall(IntPtr proc, Int32 procResult)
+   在 HalconDotNet.HImage.WriteImage(String format, Int32 fillColor, String fileName)
+   在 Yoga.Tools.CreateImage.CreateImageUnit.<>c__DisplayClass10_0.<SaveImage>b__0() 位置 C:\Users\PC\Desktop\喜利得视觉_V0.0000.00.08\VisionMix-X64\Yoga.Tools\CreateImage\CreateImageUnit.cs:行号 181
+-------------------历史记录------------------------
+ 记录时间：2020-12-28 11:20:19,163 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2020-12-28 13:57:44,180 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2020-12-28 15:29:02,363 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ -------------------历史记录------------------------
+ 记录时间：2020-12-28 16:44:30,793 
+ 线程ID:[1] 
+ 日志级别：  ERROR 
+ 记录类：logerror property: [(null)] 
+ 信息描述：FrmMain: Log测试-error 
+ 
